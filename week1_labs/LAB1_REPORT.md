@@ -62,7 +62,7 @@
 
 ## Screenshots
 All screenshots are saved in the `lab1_screenshots` folder:  
-- `environment_setup.png`  
-- `vscode_setup.png`  
-- `hello_world_output.png`  
-- `basic_calculator_output.png`  
+- environment_setup![`environment_setup.png`](lab1_screenshots/environment_setup.png)  
+- vscode_setup ![`vscode_setup.png`](lab1_screenshots/vscode_setup.png)  
+- hello_world_ouput ![`hello_world_output.png` ](lab1_screenshots/hello_world_output.png) 
+- basic_calculator_output ![`basic_calculator_output.png` ](lab1_screenshots/basic_calculator_output.png) 
