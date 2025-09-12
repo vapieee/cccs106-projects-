@@ -5,4 +5,5 @@ Academic Year 2025-2026
 ## Repository Structure 
 - week1_labs/ - Environment setup and Python basics 
 - week2_labs/ - Git and Flet GUI development 
+- week3_labs/ - Flet user login application with MySQL integration
 - module1_final/ - Module 1 final project 
