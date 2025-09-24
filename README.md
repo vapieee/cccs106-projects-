@@ -6,4 +6,5 @@ Academic Year 2025-2026
 - week1_labs/ - Environment setup and Python basics 
 - week2_labs/ - Git and Flet GUI development 
 - week3_labs/ - Flet user login application with MySQL integration
+- week4_labs/ - Contact Book App Modification using Flet 
 - module1_final/ - Module 1 final project 
